@@ -1,1 +1,1 @@
-# EYE-Tracking data
+# Formatting EYE-Tracking data into BIDS specification
